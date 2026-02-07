@@ -1,0 +1,51 @@
+{
+    "users": {
+        "6971001661": {
+            "user_id": 6971001661,
+            "username": null,
+            "first_name": "....",
+            "joined_at": "2026-02-06T21:21:24.989590",
+            "last_active": "2026-02-07T17:57:53.996613",
+            "commands_used": 2,
+            "videos_watched": 0
+        },
+        "5130432722": {
+            "user_id": 5130432722,
+            "username": "yodgorovvv_a",
+            "first_name": "A",
+            "joined_at": "2026-02-07T19:07:29.319885",
+            "last_active": "2026-02-07T19:07:30.282025",
+            "commands_used": 0,
+            "videos_watched": 0,
+            "is_premium": false,
+            "points": 0
+        }
+    },
+    "stats": {
+        "total_users": 2,
+        "total_commands": 2,
+        "total_videos_sent": 0,
+        "bot_started": "2026-02-06T21:19:27.748936"
+    },
+    "admin_ids": [
+        6971001661,
+        8
+    ],
+    "admin_roles": {
+        "6971001661": "SUPERADMIN"
+    },
+    "settings": {},
+    "scheduled_posts": [],
+    "favorites": {
+        "5130432722": []
+    },
+    "ratings": {},
+    "comments": {},
+    "watch_history": {
+        "5130432722": []
+    },
+    "premium_users": [],
+    "user_languages": {
+        "5130432722": "uz"
+    }
+}
